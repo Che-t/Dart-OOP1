@@ -1,4 +1,4 @@
-# OOP1
+# Dart-OOP1
 Object-Oriented Programming in Dart
 
 This technical assignment challenge is designed to assess a learner's understanding of object-oriented programming (OOP) in Dart. The challenge is, create a program that has the following features:
